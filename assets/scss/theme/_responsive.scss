@@ -85,19 +85,4 @@
 	
 	
 }
-@media (max-width: 767px) {
-  .navbar-collapse {
-    display: block !important;
-  }
-  .navbar-toggler {
-    display: block !important;
-  }
-  .navbar-nav {
-    flex-direction: column !important;
-  }
-  .navbar-nav .nav-link {
-    padding-right: 0 !important;
-    padding-left: 0 !important;
-  }
-}
 
